@@ -1,0 +1,10 @@
+E:\School\2013-2014\Spring\CS3023 - Object Based Visual Programming\Projects\MyFirstVB\MyFirstVB\bin\Debug\MyFirstVB.exe.config
+E:\School\2013-2014\Spring\CS3023 - Object Based Visual Programming\Projects\MyFirstVB\MyFirstVB\bin\Debug\MyFirstVB.exe
+E:\School\2013-2014\Spring\CS3023 - Object Based Visual Programming\Projects\MyFirstVB\MyFirstVB\bin\Debug\MyFirstVB.pdb
+E:\School\2013-2014\Spring\CS3023 - Object Based Visual Programming\Projects\MyFirstVB\MyFirstVB\bin\Debug\MyFirstVB.xml
+E:\School\2013-2014\Spring\CS3023 - Object Based Visual Programming\Projects\MyFirstVB\MyFirstVB\obj\Debug\MyFirstVB.Resources.resources
+E:\School\2013-2014\Spring\CS3023 - Object Based Visual Programming\Projects\MyFirstVB\MyFirstVB\obj\Debug\MyFirstVB.vbproj.GenerateResource.Cache
+E:\School\2013-2014\Spring\CS3023 - Object Based Visual Programming\Projects\MyFirstVB\MyFirstVB\obj\Debug\MyFirstVB.exe
+E:\School\2013-2014\Spring\CS3023 - Object Based Visual Programming\Projects\MyFirstVB\MyFirstVB\obj\Debug\MyFirstVB.xml
+E:\School\2013-2014\Spring\CS3023 - Object Based Visual Programming\Projects\MyFirstVB\MyFirstVB\obj\Debug\MyFirstVB.pdb
+E:\School\2013-2014\Spring\CS3023 - Object Based Visual Programming\Projects\MyFirstVB\MyFirstVB\obj\Debug\MyFirstVB.Form1.resources

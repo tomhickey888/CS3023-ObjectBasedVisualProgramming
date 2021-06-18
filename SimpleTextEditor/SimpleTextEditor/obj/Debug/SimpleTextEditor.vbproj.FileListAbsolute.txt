@@ -1,0 +1,2 @@
+E:\School\2013-2014\Spring\CS3023 - Object Based Visual Programming\Projects\SimpleTextEditor\SimpleTextEditor\bin\Debug\SimpleTextEditor.exe.config
+G:\School\2013-2014\Spring\CS3023 - Object Based Visual Programming\Projects\SimpleTextEditor\SimpleTextEditor\bin\Debug\SimpleTextEditor.exe.config

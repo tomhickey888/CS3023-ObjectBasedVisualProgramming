@@ -1,0 +1,14 @@
+E:\School\2013-2014\Spring\CS3023 - Object Based Visual Programming\Projects\CH_03_PC_01\CH_03_PC_01\bin\Debug\CH_03_PC_01.exe.config
+E:\School\2013-2014\Spring\CS3023 - Object Based Visual Programming\Projects\CH_03_PC_01\CH_03_PC_01\bin\Debug\CH_03_PC_01.exe
+E:\School\2013-2014\Spring\CS3023 - Object Based Visual Programming\Projects\CH_03_PC_01\CH_03_PC_01\bin\Debug\CH_03_PC_01.pdb
+E:\School\2013-2014\Spring\CS3023 - Object Based Visual Programming\Projects\CH_03_PC_01\CH_03_PC_01\bin\Debug\CH_03_PC_01.xml
+E:\School\2013-2014\Spring\CS3023 - Object Based Visual Programming\Projects\CH_03_PC_01\CH_03_PC_01\obj\Debug\CH_03_PC_01.Resources.resources
+E:\School\2013-2014\Spring\CS3023 - Object Based Visual Programming\Projects\CH_03_PC_01\CH_03_PC_01\obj\Debug\CH_03_PC_01.vbproj.GenerateResource.Cache
+E:\School\2013-2014\Spring\CS3023 - Object Based Visual Programming\Projects\CH_03_PC_01\CH_03_PC_01\obj\Debug\CH_03_PC_01.exe
+E:\School\2013-2014\Spring\CS3023 - Object Based Visual Programming\Projects\CH_03_PC_01\CH_03_PC_01\obj\Debug\CH_03_PC_01.xml
+E:\School\2013-2014\Spring\CS3023 - Object Based Visual Programming\Projects\CH_03_PC_01\CH_03_PC_01\obj\Debug\CH_03_PC_01.pdb
+E:\School\2013-2014\Spring\CS3023 - Object Based Visual Programming\Projects\CH_03_PC_01\CH_03_PC_01\obj\Debug\CH_03_PC_01.Form1.resources
+E:\School\2013-2014\Spring\CS3023 - Object Based Visual Programming\Projects\hickeyt_CH_03_PC_01\CH_03_PC_01\bin\Debug\CH_03_PC_01.exe.config
+E:\School\2013-2014\Spring\CS3023 - Object Based Visual Programming\Projects\hickeyt_CH_03_PC_01\CH_03_PC_01\obj\Debug\CH_03_PC_01.exe
+E:\School\2013-2014\Spring\CS3023 - Object Based Visual Programming\Projects\hickeyt_CH_03_PC_01\CH_03_PC_01\obj\Debug\CH_03_PC_01.xml
+E:\School\2013-2014\Spring\CS3023 - Object Based Visual Programming\Projects\hickeyt_CH_03_PC_01\CH_03_PC_01\obj\Debug\CH_03_PC_01.pdb

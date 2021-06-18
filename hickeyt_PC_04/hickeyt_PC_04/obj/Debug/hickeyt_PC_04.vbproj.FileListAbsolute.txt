@@ -1,0 +1,10 @@
+c:\users\hickeyt\documents\visual studio 2012\Projects\hickeyt_PC_04\hickeyt_PC_04\bin\Debug\hickeyt_PC_04.exe.config
+c:\users\hickeyt\documents\visual studio 2012\Projects\hickeyt_PC_04\hickeyt_PC_04\bin\Debug\hickeyt_PC_04.exe
+c:\users\hickeyt\documents\visual studio 2012\Projects\hickeyt_PC_04\hickeyt_PC_04\bin\Debug\hickeyt_PC_04.pdb
+c:\users\hickeyt\documents\visual studio 2012\Projects\hickeyt_PC_04\hickeyt_PC_04\bin\Debug\hickeyt_PC_04.xml
+c:\users\hickeyt\documents\visual studio 2012\Projects\hickeyt_PC_04\hickeyt_PC_04\obj\Debug\hickeyt_PC_04.Form1.resources
+c:\users\hickeyt\documents\visual studio 2012\Projects\hickeyt_PC_04\hickeyt_PC_04\obj\Debug\hickeyt_PC_04.Resources.resources
+c:\users\hickeyt\documents\visual studio 2012\Projects\hickeyt_PC_04\hickeyt_PC_04\obj\Debug\hickeyt_PC_04.vbproj.GenerateResource.Cache
+c:\users\hickeyt\documents\visual studio 2012\Projects\hickeyt_PC_04\hickeyt_PC_04\obj\Debug\hickeyt_PC_04.exe
+c:\users\hickeyt\documents\visual studio 2012\Projects\hickeyt_PC_04\hickeyt_PC_04\obj\Debug\hickeyt_PC_04.xml
+c:\users\hickeyt\documents\visual studio 2012\Projects\hickeyt_PC_04\hickeyt_PC_04\obj\Debug\hickeyt_PC_04.pdb

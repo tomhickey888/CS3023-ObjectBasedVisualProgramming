@@ -1,0 +1,10 @@
+E:\School\2013-2014\Spring\CS3023 - Object Based Visual Programming\Projects\fileIO\fileIO\bin\Debug\fileIO.exe.config
+E:\School\2013-2014\Spring\CS3023 - Object Based Visual Programming\Projects\fileIO\fileIO\bin\Debug\fileIO.exe
+E:\School\2013-2014\Spring\CS3023 - Object Based Visual Programming\Projects\fileIO\fileIO\bin\Debug\fileIO.pdb
+E:\School\2013-2014\Spring\CS3023 - Object Based Visual Programming\Projects\fileIO\fileIO\bin\Debug\fileIO.xml
+E:\School\2013-2014\Spring\CS3023 - Object Based Visual Programming\Projects\fileIO\fileIO\obj\Debug\fileIO.Form1.resources
+E:\School\2013-2014\Spring\CS3023 - Object Based Visual Programming\Projects\fileIO\fileIO\obj\Debug\fileIO.Resources.resources
+E:\School\2013-2014\Spring\CS3023 - Object Based Visual Programming\Projects\fileIO\fileIO\obj\Debug\fileIO.vbproj.GenerateResource.Cache
+E:\School\2013-2014\Spring\CS3023 - Object Based Visual Programming\Projects\fileIO\fileIO\obj\Debug\fileIO.exe
+E:\School\2013-2014\Spring\CS3023 - Object Based Visual Programming\Projects\fileIO\fileIO\obj\Debug\fileIO.xml
+E:\School\2013-2014\Spring\CS3023 - Object Based Visual Programming\Projects\fileIO\fileIO\obj\Debug\fileIO.pdb

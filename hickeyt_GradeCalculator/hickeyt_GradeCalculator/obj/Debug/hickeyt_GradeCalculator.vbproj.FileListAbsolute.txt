@@ -1,0 +1,10 @@
+E:\School\2013-2014\Spring\CS3023 - Object Based Visual Programming\Projects\hickeyt_GradeCalculator\hickeyt_GradeCalculator\bin\Debug\hickeyt_GradeCalculator.exe.config
+E:\School\2013-2014\Spring\CS3023 - Object Based Visual Programming\Projects\hickeyt_GradeCalculator\hickeyt_GradeCalculator\bin\Debug\hickeyt_GradeCalculator.exe
+E:\School\2013-2014\Spring\CS3023 - Object Based Visual Programming\Projects\hickeyt_GradeCalculator\hickeyt_GradeCalculator\bin\Debug\hickeyt_GradeCalculator.pdb
+E:\School\2013-2014\Spring\CS3023 - Object Based Visual Programming\Projects\hickeyt_GradeCalculator\hickeyt_GradeCalculator\bin\Debug\hickeyt_GradeCalculator.xml
+E:\School\2013-2014\Spring\CS3023 - Object Based Visual Programming\Projects\hickeyt_GradeCalculator\hickeyt_GradeCalculator\obj\Debug\hickeyt_GradeCalculator.GradeCalculator.resources
+E:\School\2013-2014\Spring\CS3023 - Object Based Visual Programming\Projects\hickeyt_GradeCalculator\hickeyt_GradeCalculator\obj\Debug\hickeyt_GradeCalculator.Resources.resources
+E:\School\2013-2014\Spring\CS3023 - Object Based Visual Programming\Projects\hickeyt_GradeCalculator\hickeyt_GradeCalculator\obj\Debug\hickeyt_GradeCalculator.vbproj.GenerateResource.Cache
+E:\School\2013-2014\Spring\CS3023 - Object Based Visual Programming\Projects\hickeyt_GradeCalculator\hickeyt_GradeCalculator\obj\Debug\hickeyt_GradeCalculator.exe
+E:\School\2013-2014\Spring\CS3023 - Object Based Visual Programming\Projects\hickeyt_GradeCalculator\hickeyt_GradeCalculator\obj\Debug\hickeyt_GradeCalculator.xml
+E:\School\2013-2014\Spring\CS3023 - Object Based Visual Programming\Projects\hickeyt_GradeCalculator\hickeyt_GradeCalculator\obj\Debug\hickeyt_GradeCalculator.pdb

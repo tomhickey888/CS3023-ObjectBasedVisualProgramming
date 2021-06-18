@@ -1,0 +1,10 @@
+E:\School\2013-2014\Spring\CS3023 - Object Based Visual Programming\Projects\hickeyt_OccupancyCalculator\hickeyt_OccupancyCalculator\bin\Debug\hickeyt_OccupancyCalculator.exe.config
+E:\School\2013-2014\Spring\CS3023 - Object Based Visual Programming\Projects\hickeyt_OccupancyCalculator\hickeyt_OccupancyCalculator\bin\Debug\hickeyt_OccupancyCalculator.exe
+E:\School\2013-2014\Spring\CS3023 - Object Based Visual Programming\Projects\hickeyt_OccupancyCalculator\hickeyt_OccupancyCalculator\bin\Debug\hickeyt_OccupancyCalculator.pdb
+E:\School\2013-2014\Spring\CS3023 - Object Based Visual Programming\Projects\hickeyt_OccupancyCalculator\hickeyt_OccupancyCalculator\bin\Debug\hickeyt_OccupancyCalculator.xml
+E:\School\2013-2014\Spring\CS3023 - Object Based Visual Programming\Projects\hickeyt_OccupancyCalculator\hickeyt_OccupancyCalculator\obj\Debug\hickeyt_OccupancyCalculator.Form1.resources
+E:\School\2013-2014\Spring\CS3023 - Object Based Visual Programming\Projects\hickeyt_OccupancyCalculator\hickeyt_OccupancyCalculator\obj\Debug\hickeyt_OccupancyCalculator.Resources.resources
+E:\School\2013-2014\Spring\CS3023 - Object Based Visual Programming\Projects\hickeyt_OccupancyCalculator\hickeyt_OccupancyCalculator\obj\Debug\hickeyt_OccupancyCalculator.vbproj.GenerateResource.Cache
+E:\School\2013-2014\Spring\CS3023 - Object Based Visual Programming\Projects\hickeyt_OccupancyCalculator\hickeyt_OccupancyCalculator\obj\Debug\hickeyt_OccupancyCalculator.exe
+E:\School\2013-2014\Spring\CS3023 - Object Based Visual Programming\Projects\hickeyt_OccupancyCalculator\hickeyt_OccupancyCalculator\obj\Debug\hickeyt_OccupancyCalculator.xml
+E:\School\2013-2014\Spring\CS3023 - Object Based Visual Programming\Projects\hickeyt_OccupancyCalculator\hickeyt_OccupancyCalculator\obj\Debug\hickeyt_OccupancyCalculator.pdb
